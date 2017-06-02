@@ -1,3 +1,15 @@
+/*
+Daniel Rodriguez #15796
+Emilio Diaz #
+
+Hoja de Trabajo #11 Algoritmo Floyd
+
+El programa calcula la ruta mas corta entre las ciudades de Guatemala.
+Permite agregar factores como trafico o desastres naturales que puedan ralentizar el flujo.
+Ademas, es posible agregar nuevas conecciones entre las ciudades.
+
+*/
+
 import java.util.Scanner; //Importa la clase del Scanner
 import java.io.BufferedReader;
 import java.io.FileReader;
